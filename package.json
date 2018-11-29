@@ -1,0 +1,14 @@
+{
+  "name": "manage-users",
+  "version": "1.0.0",
+  "description": "package to manage users",
+  "main": "userList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "users"
+  ],
+  "author": "Margherita <marghe27@live.it>",
+  "license": "MIT"
+}
